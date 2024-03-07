@@ -5,7 +5,7 @@ X-TIMESTAMP-MAP=MPEGTS:0,LOCAL:00:00:00.000
 STYLE
 ::cue {
   font-family:HelveticaNow,Helvetica,sans-serif;
-  color:white;
+  color:green;
   font-size:60%;
   background-color:rgba(0,0,0,0.7);
 }
